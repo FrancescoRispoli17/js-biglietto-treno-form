@@ -1,4 +1,4 @@
-label{
+.container:first-child label{
     color: #B9144F;
 }
 input,select{
