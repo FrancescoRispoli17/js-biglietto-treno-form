@@ -1,0 +1,15 @@
+label{
+    color: #B9144F;
+}
+input,select{
+    border: 1px solid #B9144F;
+}
+button{
+    color: #B9144F;
+    background-color: rgb(212, 214, 214);
+    font-weight: bold;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 0 10px;
+}
